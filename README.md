@@ -8,3 +8,15 @@
 
 ### 详细Catalog
 
+- Version_1
+  - round1.py~round3.py 是第一杆到第三杆的代码
+  - newround.py 是新修改后的代码
+  - shijue.py 是老版本中的视觉模块代码
+  
+- Version_2
+  - action.py 运动代码，包括抓杆、挥杆、行走和收杆的动作。
+  - ConfigureNao.py 参数配置代码，初始化之类。
+  - main-visual-task.py 视觉测试代码。
+  - pathplanning.py 路径规划模块代码。
+  - task1.py~task3.py 第一杆到第三杆的流程规划代码。
+  - visualTask.py 主要的视觉模块代码。
