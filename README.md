@@ -20,3 +20,6 @@
   - pathplanning.py 路径规划模块代码。
   - task1.py~task3.py 第一杆到第三杆的流程规划代码。
   - visualTask.py 主要的视觉模块代码。
+
+### 高尔夫机器人比赛场景应用描述
+
